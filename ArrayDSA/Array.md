@@ -27,3 +27,23 @@
 
 ## What to implement in a array:
 - Search, Insert, Delete, Reverse, Left/Right rotations by n places.
+
+## Algorithms to Focus on in Arrays
+
+1. Searching Algorithms
+- Binary Search
+- Two Pointer Technique
+2. Sorting Algorithms
+- Quick Sort
+- Merge Sort
+- Heap Sort
+- Counting Sort
+3. Sliding Window Technique
+4. Kadane's Algorithm
+5. Two Sum, Three Sum, Four Sum
+6. Prefix Sum and Difference Arrays
+7. DP on Arrays
+8. Matrix-Linear-Algerbra-Based Problems
+9. Greedy Algorithms
+10. Heap Based Algorithms
+11. Bit Manipulation
